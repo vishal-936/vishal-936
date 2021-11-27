@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vishal-936
-- 👀 I’m interested in Data Science and Machine Learning. I also like to make the code more efficient. Mostly i work in python.
+- 👋 Hi, I’m Vishal Kumar.
+- 👀 I’m interested in Data Science/Machine Learning and Software devlopment. Mostly i work in python and Java.
 -  ☑ Languages known: Java, Python, C++, JavaScript 
 - 🌱 I’m currently learning data Science with python
 - 💞️ I’m looking to collaborate on ...
