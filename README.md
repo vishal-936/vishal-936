@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishal Kumar.
 - 👀 I’m interested in Data Science/Machine Learning and Software devlopment. Mostly i work in python and Java.
 -  ☑ Languages known: Java, Python, C++, JavaScript 
-- 🌱 I’m currently learning data Science with python
+- 🌱 I’m currently learning data Science and Machine Learning concepts with python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 5713vishal@gmail.com
 
